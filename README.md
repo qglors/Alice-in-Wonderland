@@ -1,2 +1,2 @@
-Alice in Wonderland
+# Alice in Wonderland
 Interactive, animated role-playing math game inspired by Alice in Wonderland.
